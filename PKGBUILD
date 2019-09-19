@@ -4,7 +4,7 @@
 # Contributor: Thomas Baechler <thomas@archlinux.org>
 
 pkgbase=linux-mbp
-pkgver=5.2.15
+pkgver=5.2.16
 _srcname=linux-${pkgver}
 pkgrel=1
 arch=(x86_64)
