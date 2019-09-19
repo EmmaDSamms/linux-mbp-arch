@@ -1,5 +1,5 @@
 pkgbase = linux-mbp
-	pkgver = 5.2.15
+	pkgver = 5.2.16
 	pkgrel = 1
 	url = https://git.archlinux.org/linux.git/log/?h=v
 	arch = x86_64
