@@ -75,7 +75,7 @@ pkgname = linux-mbp
 	backup = etc/mkinitcpio.d/linux-mbp.preset
 
 pkgname = linux-mbp-headers
-	pkgdesc = Header files and scripts for building modules for Linux-mbp kerneli
+	pkgdesc = Header files and scripts for building modules for Linux-mbp kernel
 
 pkgname = linux-mbp-docs
 	pkgdesc = Kernel hackers manual - HTML documentation that comes with the Linux-mbp kernel
