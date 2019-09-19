@@ -171,7 +171,7 @@ _package() {
 }
 
 _package-headers() {
-  pkgdesc="Header files and scripts for building modules for ${pkgbase/linux/Linux} kernel"
+  pkgdesc="Header files and scripts for build;ing modules for ${pkgbase/linux/Linux} kernel"
 
   local builddir="$pkgdir/usr/lib/modules/$(<version)/build"
 
